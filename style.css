@@ -55,7 +55,7 @@ header {
 /* main */
 .fv {
     height: 603px;
-    background-image: url("fv.jpg");
+    background-image: url("img/fv.jpg");
     background-size: cover;
     background-position: center;
 }
